@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Avadhut2003/Avadhut2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ironman4123/ironman4123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,13 +10,12 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning Valorant
 - 🤔 If you looking for help feel free to ask 
 - 💬 Ask me about anime too
 - 📫 How to reach me: samrattikone277@gmail.com 
-- 😄 Pronouns: Zoro
-- ⚡ Fun fact: If you visit zoro2030 repository it's mine
+- 😄 Pronouns: LUFFY
+- ⚡ Fun fact: If you visit ironman4123 repository it's mine
 <br><br>
 
 
