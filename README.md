@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Valorant
 - 🤔 If you looking for help feel free to ask 
 - 💬 Ask me about anime too
-- 📫 How to reach me: samrattikone277@gmail.com 
+- 📫 How to reach me: vaibhavwaje214@gmail.com 
 - 😄 Pronouns: LUFFY
 - ⚡ Fun fact: If you visit ironman4123 repository it's mine
 <br><br>
